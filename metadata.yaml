@@ -1,0 +1,31 @@
+_repo: The-Philippines--Past-and-Present--Volume-1-of-2-_12077
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 12077/12077-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Worcester, Dean C. (Dean Conant)
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '4213'
+    url: http://www.gutenberg.org/2009/agents/4213
+    wikipedia: http://en.wikipedia.org/wiki/Dean_Conant_Worcester
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- 1898-1946'
+- !lcc 'DS'
+- !lcsh 'Philippines'
+- GITenberg
+title: 'The Philippines: Past and Present (Volume 1 of 2)'
+url: http://www.gutenberg.org/ebooks/12077
